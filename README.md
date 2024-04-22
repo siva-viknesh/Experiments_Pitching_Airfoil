@@ -1,4 +1,4 @@
-##Active control of separated flow on a symmetric airfoil by pitching oscillation##
+## Active control of separated flow on a symmetric airfoil by pitching oscillation ##
 <hr>
 
 - Time-resolved particle image velocimetry and unsteady pressure measurements are carried out simultaneously to characterize the flow field over the pitching airfoil. The results presented here provide an insight into flow dynamics and the dynamic response of a stalled airfoil to pitching oscillation at different reduced frequencies.
