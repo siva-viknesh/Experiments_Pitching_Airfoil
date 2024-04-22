@@ -1,4 +1,4 @@
-This work is part of my MS thesis, with the experimental measurements carried out at the Low-Speed Aerodynamics Lab, IIT Kanpur.
+This work is part of my MS thesis, with the experimental measurements carried out at the Low-Speed Aerodynamics Lab, IIT Kanpur.<br />
 ![Pressure_Measurements/Figure.jpeg] (https://github.com/siva-viknesh/Experiments_Pitching_Airfoil/blob/main/Pressure_Measurements/Figure.jpeg)
 
 <br />
